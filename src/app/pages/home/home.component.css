@@ -6,7 +6,8 @@
     margin-top: 2.5%;
     margin-left: 2.5%;
     display: flex;
-    flex-direction: row;;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .articles-others{
